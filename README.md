@@ -1,5 +1,4 @@
-# vim-cheat-sheet
-# A Great Vim Cheat Sheet
+# Vim Cheat Sheet
 
 I’ve compiled a list of essential Vim commands that I use every day. I have then given a few instructions on how to make Vim as great as it should be, because it’s painful without configuration.
 
