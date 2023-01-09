@@ -50,6 +50,8 @@ I’ve compiled a list of essential Vim commands that I use every day. I have th
 -   `x` - Delete (cut) current character
 -   `X` - Delete (cut) previous character
 -   `d` / `c` - By default, these copy the deleted text
+-   `:1,3co6` - Copies lines 1 through 3 and pastes them after line 6
+-   `:4,6m9` - Moves lines 4 through 6 after line 9
 
 ### Exiting
 
